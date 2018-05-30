@@ -13,7 +13,7 @@ Từ đó người dùng nhanh chóng tìm thấy các thông tin nhà đất ch
 - Hiện tại Takecopter hỗ trợ lọc tin từ các trang batdongsan.com.vn, dothi.net và muaban.net
 - Khi duyệt danh sách tin trên các trang này, nếu tin đó Takecopter thấy là tin môi giới, từ "Môi giới" in đậm màu da cam sẽ xuất hiện ở dòng "Loại tin"
 
-![Usage example](/takecopter_example.jpg)
+![Usage example](takecopter_example.jpg)
 
 ### Liên hệ
-- Mọi ý kiến đóng góp cho Takecopter xin gửi về [mailto](mailto:nhadatchinhchu.info@gmail.com)
+- Mọi ý kiến đóng góp cho Takecopter xin gửi về [nhadatchinhchu.info@gmail.com](mailto:nhadatchinhchu.info@gmail.com)
