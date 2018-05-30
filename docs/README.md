@@ -5,7 +5,7 @@ Từ đó người dùng nhanh chóng tìm thấy các thông tin nhà đất ch
 
 ### Cài đặt Takecopter
 - Khởi động trình duyệt Google Chrome
-- Truy cập vào địa chỉ <https://chrome.google.com/webstore/detail/takecopter/ffpmkjnjbkcmbligmljocgiafbhnneio>
+- Truy cập vào [Cửa hàng của Google tại đây](https://chrome.google.com/webstore/detail/takecopter/ffpmkjnjbkcmbligmljocgiafbhnneio "Takecopter trên Google")
 - Nhấn vào nút màu xanh da trời (có dấu + màu trắng ở trên) để cài đặt. Nếu đã cài đặt rồi, nút đó sẽ là màu xanh lá cây.
 
 ### Sử dụng Takecopter
