@@ -5,7 +5,7 @@ Từ đó người dùng nhanh chóng tìm thấy các thông tin nhà đất ch
 
 ### Cài đặt Takecopter
 - Khởi động trình duyệt Google Chrome
-- Truy cập vào "Cửa hàng Chrome trực tuyến" tại địa chỉ: https://chrome.google.com/webstore/category/extensions
+- Truy cập vào "Cửa hàng Chrome trực tuyến" tại địa chỉ: <https://chrome.google.com/webstore/category/extensions>
 - Gõ từ khóa "Takecopter" vào ô tìm kiếm 
 - Nhấn vào nút màu xanh (có dấu + màu trắng ở trên) trong kết quả tìm kiếm Takecopter để cài đặt.
 
@@ -13,8 +13,7 @@ Từ đó người dùng nhanh chóng tìm thấy các thông tin nhà đất ch
 - Hiện tại Takecopter hỗ trợ lọc tin từ các trang batdongsan.com.vn, dothi.net và muaban.net
 - Khi duyệt danh sách tin trên các trang này, nếu tin đó Takecopter thấy là tin môi giới, từ "Môi giới" in đậm màu da cam sẽ xuất hiện ở dòng "Loại tin"
 
-![GitHub Logo](/takecopter_example.png)
+![Usage example](/takecopter_example.jpg)
 
 ### Liên hệ
-- Mọi ý kiến đóng góp cho Takecopter xin gửi về nhadatchinhchu.info@gmail.com
-
+- Mọi ý kiến đóng góp cho Takecopter xin gửi về [mailto](mailto:nhadatchinhchu.info@gmail.com)
